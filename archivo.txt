@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Creo archivo
+=======
+Creo archivo en prueba2
+Otro texto
+>>>>>>> prueba2
